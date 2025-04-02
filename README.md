@@ -66,7 +66,7 @@
 <table>
   <tr>
     <td align="center" width="80">
-      <img width="35" height="35" src="https://go-skill-icons.vercel.app/api/icons?i=androidstudio" alt="Android" />
+      <img width="35" height="35" src="https://go-skill-icons.vercel.app/api/icons?i=android" alt="Android" />
       <br>Android
     </td>
     <td align="center" width="80">
@@ -116,6 +116,10 @@
       <br>MongoDB
     </td>
     <td align="center" width="80">
+      <img width="35" height="35" src="https://go-skill-icons.vercel.app/api/icons?i=gcp" alt="GCP" />
+      <br>GCP
+    </td>
+        <td align="center" width="80">
       <img width="35" height="35" src="https://go-skill-icons.vercel.app/api/icons?i=aws" alt="AWS" />
       <br>AWS
     </td>
@@ -131,12 +135,12 @@
       <img width="35" height="35" src="https://go-skill-icons.vercel.app/api/icons?i=lambda" alt="AWS Lambda" />
       <br>AWS Lambda
     </td>
+  </tr>
+  <tr>
     <td align="center" width="80">
       <img width="35" height="35" src="https://go-skill-icons.vercel.app/api/icons?i=dynamodb" alt="AWS DynamoDB" />
       <br>AWS DynamoDB
     </td>
-  </tr>
-  <tr>
     <td align="center" width="80">
       <img width="35" height="35" src="https://go-skill-icons.vercel.app/api/icons?i=elasticache" alt="AWS ElastiCache" />
       <br>AWS ElastiCache
@@ -280,7 +284,7 @@
       <br>Authorize.net
     </td>
       <td align="center" width="80">
-      <img width="35" height="35" src="https://go-skill-icons.vercel.app/api/icons?i=googlepay" alt="googlepay" />
+      <img width="35" height="35" src="https://go-skill-icons.vercel.app/api/icons?i=gcp" alt="googlepay" />
       <br>Google Pay
     </td>
     <td align="center" width="80">
