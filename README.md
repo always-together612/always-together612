@@ -66,11 +66,11 @@
 <table>
   <tr>
     <td align="center" width="80">
-      <img width="35" height="35" src="https://skillicons.dev/icons?i=android" alt="Android" />
+      <img width="35" height="35" src="https://skillicons.dev/icons?i=androidstudio" alt="Android" />
       <br>Android
     </td>
     <td align="center" width="80">
-      <img width="35" height="35" src="https://skillicons.dev/icons?i=ios" alt="iOS" />
+      <img width="35" height="35" src="https://skillicons.dev/icons?i=apple" alt="iOS" />
       <br>iOS
     </td>
     <td align="center" width="80">
