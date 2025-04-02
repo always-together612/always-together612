@@ -5,6 +5,7 @@
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2000&pause=1000&center=true&width=1000&lines=I'm + Senior + Software + Engineer + ( Frontend, + Backend, + Mobile, + Devops )" alt="Typing SVG" /0>
     </a>
 </p>
+
 ### Backend Development
 <table>
   <tr>
@@ -26,6 +27,7 @@
     </td>
   </tr>
 </table>
+
 ### Frontend Development
 <table>
   <tr>
@@ -59,6 +61,7 @@
     </td>
   </tr>
 </table>
+
 ### Mobile Development
 <table>
   <tr>
@@ -96,6 +99,7 @@
     </td>
   </tr>
 </table>
+
 ### Database & Cloud Services
 <table>
   <tr>
@@ -163,6 +167,7 @@
     </td>
   </tr>
 </table>
+
 ### DevOps & Infrastructure
 <table>
   <tr>
@@ -214,6 +219,7 @@
     </td>
   </tr>
 </table>
+
 ### E-Commerce & CMS
 <table>
   <tr>
@@ -239,6 +245,7 @@
     </td>
   </tr>
 </table>
+
 ### Web3 & Blockchain
 <table>
   <tr>
@@ -256,6 +263,7 @@
     </td>
   </tr>
 </table>
+
 ### Payment Gateway Integrations
 <table>
   <tr>
