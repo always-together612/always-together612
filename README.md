@@ -1,4 +1,4 @@
-# Senior Sofeware Engineer
+# Senior Software Engineer
 
 <p align="center">
     <a href="https://github.com/always-together612">
