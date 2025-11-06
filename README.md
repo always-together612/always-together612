@@ -1,11 +1,5 @@
 # Senior Sofeware Engineer
 
-<p align="center">
-    <a href="https://github.com/always-together612">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2000&pause=1000&center=true&width=1000&lines=I'm + a + Senior + Software + Engineer + ( Frontend, + Backend, + Mobile, + Devops )" alt="Typing SVG" /0>
-    </a>
-</p>
-
 ### Backend Development
 <table>
   <tr>
